@@ -1,0 +1,16 @@
+{
+  "name": "What Is Chapter 7 Bankruptcy?",
+  "short_name": "whatischapter7.com",
+  "description": "Free, plain-language guide to Chapter 7 bankruptcy -- the liquidation chapter. Learn who qualifies, what debts get discharged, what property you keep, and how the process works.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

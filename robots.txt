@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whatischapter7.com/sitemap.xml
